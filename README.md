@@ -4,7 +4,7 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+%26+Healthcare+Software+Developer;Hospital+Information+System+Experience;Turning+ideas+into+real-world+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=530&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+%26+Healthcare+Software+Developer;Hospital+Information+System+Experience;Turning+ideas+into+real-world+solutions" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Counter -->
@@ -19,19 +19,20 @@
 ### 👨‍💻 เกี่ยวกับตัวฉัน (About Me)
 
 - 🎓 กำลังศึกษาและพัฒนาทักษะด้าน **Software Engineering & Full-Stack Development**
-- 🏥 มีประสบการณ์พัฒนา **ระบบสารสนเทศทางการแพทย์และเครื่องมือแพทย์ (Hospital & Healthcare Systems)**
-- 🔭 มุ่งเน้นการสร้างสรรค์ซอฟต์แวร์ที่ตอบโจทย์ผู้ใช้งานจริง ปลอดภัย และมีประสิทธิภาพสูง
+- 🏥 มีประสบการณ์พัฒนา **ระบบสารสนเทศทางการแพทย์และคลังเวชภัณฑ์ (Hospital & Healthcare Systems)**
+- 🔭 มุ่งเน้นการพัฒนาระบบที่แก้ปัญหาหน้างานจริง ใช้งานง่าย ปลอดภัย และมีประสิทธิภาพสูง
 - 🌱 ทักษะหลัก: **TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Drizzle ORM, Tailwind CSS**
 
 ---
 
-### 🏥 ประสบการณ์และผลงานฝึกงานด้านโรงพยาบาล (Hospital & Healthcare Projects)
+### 🏥 ประสบการณ์และผลงานฝึกงานด้านโรงพยาบาล (Hospital & Healthcare Internship)
 
-> 💡 *ผลงานพัฒนาระบบสารสนเทศและแอปพลิเคชันทางการแพทย์ เพื่อเพิ่มประสิทธิภาพการทำงานของบุคลากรและยกระดับการดูแลสุขภาพ*
+> 💡 *ผลงานพัฒนาระบบสารสนเทศ คลังเวชภัณฑ์ และแอปพลิเคชันทางการแพทย์ เพื่อเพิ่มประสิทธิภาพการทำงานของบุคลากรโรงพยาบาล*
 
 | ระบบ / โปรเจกต์ | รายละเอียดและความสามารถของระบบ | Tech Stack | ลิงก์โปรเจกต์ |
 | :--- | :--- | :--- | :---: |
 | 🩻 **X-Ray Compliance Digital System** | **ระบบดิจิทัลตรวจสอบมาตรฐานและจัดเวรเครื่องมือแพทย์ แผนกรังสีวิทยา**<br>• Dynamic Protocol Builder กำหนดเกณฑ์ตรวจเครื่องมือ (X-Ray, CT Scan, Ultrasound, Mammogram)<br>• ระบบจัดตารางเวรเจ้าหน้าที่ประจำเดือน (Monthly Scheduling) & Real-time Coverage Monitor<br>• แจ้งเตือนสถานะความสอดคล้องมาตรฐานผ่าน Email & In-App พร้อมระบบความปลอดภัย PIN Access<br>• สถาปัตยกรรมรองรับการเชื่อมต่อกับระบบ HIS (Hospital Information System) | `React 19` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `Drizzle ORM` `PostgreSQL (Neon)` `Vitest` `Selenium` | [🔗 ดูซอร์สโค้ด](https://github.com/FEEKNK/x-ray-compliance-system) |
+| 📦 **BSI Stock - Inventory Management** | **ระบบบริหารจัดการสต็อกเวชภัณฑ์และพัสดุ (Bangkok Hospital Siriroj)**<br>• ระบบบริหารจัดการสต็อก รับเข้า-เบิกจ่าย และตรวจนับพัสดุ/เวชภัณฑ์<br>• ระบบสร้างและพิมพ์บาร์โค้ดมาตรฐาน (CODE128) พร้อมระบบสแกนบาร์โค้ดผ่านกล้องอุปกรณ์แบบ Real-time<br>• แดชบอร์ดสรุปสถิติสต็อก สินค้าหมุนเวียน และแจ้งเตือนสต็อกใกล้หมดตามเกณฑ์ (Threshold Alert)<br>• รองรับการนำเข้าและส่งออกข้อมูลสต็อกผ่านไฟล์ Excel (XLSX) สะดวกต่อการทำรายงาน | `React 19` `React Router 7` `Vite` `Node.js` `Express 5` `PostgreSQL` `Chart.js` `HTML5-QRCode` `JsBarcode` | [🔗 ดูซอร์สโค้ด](https://github.com/FEEKNK/BSI-Stock) |
 | 🏃‍♂️ **GrowthFit - Kids Fitness Screening** | **ระบบคัดกรองสมรรถภาพทางกายและการเจริญเติบโตของเด็ก (ร่วมกับ รพ.สิริโรจน์)**<br>• เว็บแอปพลิเคชันคัดกรองพัฒนาการและสมรรถภาพเด็ก 2 ช่วงวัย (4-6 ปี และ 7-14 ปี)<br>• ประเมินผลอัตโนมัติตามเกณฑ์มาตรฐาน 7 มิติ (BMI, SLS, Handgrip, Shuttle Run, Step Test ฯลฯ)<br>• Dynamic Dashboard แสดงผลพร้อมระบบ Export รายงานผลสุขภาพเป็นไฟล์ PDF ทันที<br>• ดีไซน์ทันสมัยแบบ Glassmorphism รองรับการใช้งานทั้ง PC, Tablet และ Mobile | `HTML5` `CSS3 (Glassmorphism)` `Vanilla JavaScript` `html2pdf.js` `Responsive Design` | [🔗 ดูซอร์สโค้ด](https://github.com/FEEKNK/HeightGrowthApp) |
 
 ---
@@ -41,7 +42,6 @@
 | โปรเจกต์ | รายละเอียด | Tech Stack | ลิงก์ |
 | :--- | :--- | :--- | :---: |
 | 🤖 **findback-ai** | ระบบ Web Application พลังงาน AI พร้อมระบบ Automations & Workflows | `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `n8n` | [🔗 ดูโค้ด](https://github.com/FEEKNK/findback-ai) |
-| 📦 **BSI-Stock** | ระบบจัดการสต็อกและควบคุมคลังสินค้า เพิ่มความสะดวกในการตรวจนับและติดตามสินค้า | `JavaScript` `CSS3` `HTML5` | [🔗 ดูโค้ด](https://github.com/FEEKNK/BSI-Stock) |
 | 🚗 **CarCare** | แอปพลิเคชันระบบบริหารจัดการงานบริการและบันทึกประวัติการดูแลรักษารถ | `JavaScript` `CSS3` `HTML5` | [🔗 ดูโค้ด](https://github.com/FEEKNK/CarCare) |
 | 🍃 **Air Quality App** | เว็บแอปพลิเคชันตรวจวัดและแสดงผลข้อมูลดัชนีคุณภาพอากาศ | `HTML5` `CSS3` `JavaScript` | [🔗 ดูโค้ด](https://github.com/FEEKNK/air-quality-app) |
 
