@@ -9,7 +9,7 @@
 
   <!-- Profile Views Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=FEEKNK&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views](https://avatars.githubusercontent.com/u/176381086?v=4&size=64)" />
+    <img src="https://komarev.com/ghpvc/?username=FEEKNK&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views](https://avatars.githubusercontent.com/u/176381086?v=4&size=64" />
   </p>
 
 </div>
