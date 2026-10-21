@@ -7,10 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=530&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+%26+Mobile+Developer;Hospital+Software+Internship+Experience;IoT+%26+Automotive+Diagnostics+Builder" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Views Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=FEEKNK&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
-  </p>
+
 
 </div>
 
