@@ -4,12 +4,12 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=530&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+%26+Healthcare+Software+Developer;Hospital+Information+System+Experience;Turning+ideas+into+real-world+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=530&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+%26+Mobile+Developer;Hospital+Software+Internship+Experience;IoT+%26+Automotive+Diagnostics+Builder" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=FEEKNK&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views](https://avatars.githubusercontent.com/u/176381086?v=4&size=64" />
+    <img src="https://komarev.com/ghpvc/?username=FEEKNK&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
@@ -18,10 +18,10 @@
 
 ### 👨‍💻 เกี่ยวกับตัวฉัน (About Me)
 
-- 🎓 กำลังศึกษาและพัฒนาทักษะด้าน **Software Engineering & Full-Stack Development**
+- 🎓 กำลังศึกษาและพัฒนาทักษะด้าน **Software Engineering, Full-Stack & Mobile Development**
 - 🏥 มีประสบการณ์พัฒนา **ระบบสารสนเทศทางการแพทย์และคลังเวชภัณฑ์ (Hospital & Healthcare Systems)**
-- 🔭 มุ่งเน้นการพัฒนาระบบที่แก้ปัญหาหน้างานจริง ใช้งานง่าย ปลอดภัย และมีประสิทธิภาพสูง
-- 🌱 ทักษะหลัก: **TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Drizzle ORM, Tailwind CSS**
+- 🏍️ สนใจด้าน **IoT & Hardware Integration (OBD2 Bluetooth, Android Native & Web Bluetooth API)**
+- 🌱 ทักษะหลัก: **TypeScript, React 19, Next.js, Capacitor, Node.js, Express, PostgreSQL, Supabase, Tailwind CSS**
 
 ---
 
@@ -37,10 +37,19 @@
 
 ---
 
-### 🚀 ผลงานโปรเจกต์อื่นๆ ที่น่าสนใจ (Featured Projects)
+### 🏍️ ผลงานด้าน Mobile & IoT / Automotive (ใหม่ล่าสุด)
 
-| โปรเจกต์ | รายละเอียด | Tech Stack | ลิงก์ |
+| โปรเจกต์ | รายละเอียดและความสามารถ | Tech Stack | ลิงก์ |
 | :--- | :--- | :--- | :---: |
+| 🚀 **MotoGauge** | **แอปพลิเคชันแดชบอร์ดและตรวจเช็คโค้ด ECU มอเตอร์ไซค์ผ่าน OBD2**<br>• เชื่อมต่อกล่อง ECU ผ่าน Bluetooth (RFCOMM SPP บน Android และ Web Bluetooth บน Chrome)<br>• แสดงผลหน้าปัดความเร็ว/รอบเครื่องแบบ Real-time พร้อมฐานข้อมูลวิเคราะห์โค้ดข้อผิดพลาด (DTC Database)<br>• สร้างเป็น Android Native APK ได้ในคลิกเดียวผ่าน Capacitor และ Java Native Bridge | `Capacitor` `Android (Java/Gradle)` `Web Bluetooth API` `JavaScript` `CSS3` | [🔗 ดูซอร์สโค้ด](https://github.com/FEEKNK/motogauge-app) |
+
+---
+
+### 🌟 ผลงานเว็บแอปพลิเคชัน & AI (Featured Web & AI Projects)
+
+| โปรเจกต์ | รายละเอียดและความสามารถ | Tech Stack | ลิงก์ |
+| :--- | :--- | :--- | :---: |
+| 📱 **MyFee V2** | **Progressive Web App (PWA) All-in-One เพื่อการพัฒนาตนเองและเพิ่มประสิทธิภาพ**<br>• ระบบ Flashcards (Oxford 3000) พร้อม Spaced Repetition และ Quiz ทดสอบคำศัพท์<br>• ระบบจัดการงาน (To-Do & Habit Tracker), บันทึกรายรับ-รายจ่าย, และ Pomodoro Timer<br>• ดีไซน์ Glassmorphism สวยงาม พร้อมพื้นหลัง 3D Interactive ด้วย Spline และความปลอดภัย PIN Lock 4 หลัก | `React 19` `Vite` `Tailwind CSS 4` `Framer Motion` `Spline 3D` `Zustand` `Supabase` | [🔗 ดูซอร์สโค้ด](https://github.com/FEEKNK/MyfeeV2) |
 | 🤖 **findback-ai** | ระบบ Web Application พลังงาน AI พร้อมระบบ Automations & Workflows | `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `n8n` | [🔗 ดูโค้ด](https://github.com/FEEKNK/findback-ai) |
 | 🚗 **CarCare** | แอปพลิเคชันระบบบริหารจัดการงานบริการและบันทึกประวัติการดูแลรักษารถ | `JavaScript` `CSS3` `HTML5` | [🔗 ดูโค้ด](https://github.com/FEEKNK/CarCare) |
 | 🍃 **Air Quality App** | เว็บแอปพลิเคชันตรวจวัดและแสดงผลข้อมูลดัชนีคุณภาพอากาศ | `HTML5` `CSS3` `JavaScript` | [🔗 ดูโค้ด](https://github.com/FEEKNK/air-quality-app) |
@@ -52,12 +61,12 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,c,cpp,java&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,java,c,cpp&perline=8" alt="Languages" />
   <br><br>
-  <!-- Frameworks & Frontend/Backend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,vite&perline=7" alt="Frameworks" />
+  <!-- Frameworks & Frontend/Backend/Mobile -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,vite,androidstudio&perline=8" alt="Frameworks" />
   <br><br>
-  <!-- Database, ORM & Tools -->
+  <!-- Database, Cloud & Tools -->
   <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,git,github,docker,vscode,postman,figma&perline=10" alt="Databases & Tools" />
 
 </div>
