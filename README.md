@@ -16,9 +16,20 @@
 ### 👨‍💻 เกี่ยวกับตัวฉัน (About Me)
 
 - 🎓 กำลังศึกษาและพัฒนาทักษะด้าน **Software Engineering, Full-Stack & Mobile Development**
+- 💼 พัฒนาแพลตฟอร์ม **Cloud Accounting & Fintech SaaS (Next.js 15, Neon PostgreSQL, Drizzle ORM)**
 - 🏥 มีประสบการณ์พัฒนา **ระบบสารสนเทศทางการแพทย์และคลังเวชภัณฑ์ (Hospital & Healthcare Systems)**
 - 🏍️ สนใจด้าน **IoT & Hardware Integration (OBD2 Bluetooth, Android Native & Web Bluetooth API)**
-- 🌱 ทักษะหลัก: **TypeScript, React 19, Next.js, Capacitor, Node.js, Express, PostgreSQL, Supabase, Tailwind CSS**
+- 🌱 ทักษะหลัก: **TypeScript, React 19, Next.js 15, Node.js, Express, PostgreSQL (Neon), Drizzle ORM, Supabase, Tailwind CSS**
+
+---
+
+### 💼 ผลงานด้าน Fintech & Cloud Accounting SaaS (Featured Project ⭐)
+
+> 💡 *ระบบบัญชีคลาวด์มาตรฐานไทย รองรับ Dual Experience (เจ้าของธุรกิจ & นักบัญชี) พร้อมสถาปัตยกรรมความปลอดภัยระดับองค์กร*
+
+| ระบบ / โปรเจกต์ | รายละเอียดและความสามารถของระบบ | Tech Stack | ลิงก์โปรเจกต์ |
+| :--- | :--- | :--- | :---: |
+| 🌿 **My Accounting SaaS** | **แพลตฟอร์มระบบบัญชีคลาวด์สำหรับธุรกิจไทย (Dual Experience: Simple Mode & Pro Mode)**<br>• ออกใบเสนอราคา (พร้อมระบบเซ็นชื่อออนไลน์ E-Signature), ใบแจ้งหนี้, และใบเสร็จรับเงิน/ใบกำกับภาษีใน 30 วินาที<br>• คำนวณภาษีมูลค่าเพิ่ม 7%, ภาษีหัก ณ ที่จ่าย 1-5% (WHT), และแปลงตัวเลขเป็นตัวหนังสือภาษาไทย (BahtText) อัตโนมัติ 100%<br>• สถาปัตยกรรม Fail-Closed ไร้ Mockup เชื่อมต่อฐานข้อมูล Neon PostgreSQL จริง พร้อม Atomic Batch Transaction ป้องกันข้อมูลไม่สอดคล้อง<br>• ระบบรักษาความปลอดภัยแบบ Sliding Window Rate Limiting ป้องกัน Brute-force และสิทธิการใช้งานแบบ RBAC (4 Roles)<br>• ดีไซน์ทันสมัยแบบ High-Contrast Yellow-White-Black ผ่านเกณฑ์ WCAG 2.2 AA และรองรับโครงสร้าง e-Tax Ready | `Next.js 15` `React 19` `TypeScript 5.7` `Tailwind CSS` `Drizzle ORM` `PostgreSQL (Neon)` `Zod` `HMAC-SHA256 Auth` | [🔗 ดูซอร์สโค้ด](https://github.com/FEEKNK/my-accounting-saas) |
 
 ---
 
