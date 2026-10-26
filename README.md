@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 สวัสดีครับ, ผม FEEKNK
+  # นาย อภิรักษ์ คนึงการ
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -77,19 +77,6 @@
   <!-- Database, Cloud & Tools -->
   <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,git,github,docker,vscode,postman,figma&perline=10" alt="Databases & Tools" />
 
-</div>
-
----
-
-### 📊 สถิติบน GitHub (GitHub Analytics)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FEEKNK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="FEEKNK's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FEEKNK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FEEKNK&theme=tokyonight&hide_border=true" alt="FEEKNK Streak" />
 </div>
 
 ---
